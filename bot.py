@@ -56,4 +56,4 @@ async def timer(ctx, seconds):
     except ValueError:
         await ctx.send("Must be a number!")
 
-cli.run('NzgyODMwOTUxNTg3Nzc0NTA0.X8R6Iw.pUrkA3C9EyL75RPNxhYuyHSJUiA')
+cli.run('TOKEN')
