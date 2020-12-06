@@ -11,5 +11,5 @@ HOW TO RUN:
 7. Open the link given and add the bot to your server.
 8. Go back to the bot option and copy your token.
 9. Open the Bot.py file and replace TOKEN with your bot token you copyed. 
-7. pip insall requirements.txt
+7. pip insall requirements.txt and run the file.
 8. Once done host 24/7 on heroku. (optinal)
